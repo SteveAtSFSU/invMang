@@ -1,0 +1,10 @@
+Paper 10 5.99
+ColoredPaper 10 6.99
+PaperClips 55 0.99
+Staples 1000 0.10
+Chairs 3 49.99
+Pens 500 0.75
+Pencils 500 .10
+Highlighters 100 1.00
+Toner 2 69.99
+Post-its 100 1.99
